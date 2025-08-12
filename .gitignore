@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# But not these files...
+!.gitignore
+!*.py
+
+# Optionally, include Python files in subdirectories
+!*/ 
+!**/*.py
